@@ -35,6 +35,13 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Denzel101's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Denzel101&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://github.com/Denzel101
 [link]: https://github.com/Denzel101/uber_clone
 [twitter]: https://twitter.com/DenzelGatugu
