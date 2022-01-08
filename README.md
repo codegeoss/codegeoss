@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other teams
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch anime and play videogames
+- ⚡ Fun fact: I love to watch anime and play video sgames
 
 ### Connect with me:
 
