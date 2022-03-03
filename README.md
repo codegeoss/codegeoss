@@ -5,6 +5,7 @@
 ## I'm a Brother, Student and Developer!!
 
 - 🔭 I just launched my first open source app: [FLUTTER UBER CLONE][link]!
+- 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other teams
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -52,7 +53,7 @@
 
 </details>
 
-[website]: https://github.com/Denzel101
+[website]: https://denzel101.github.io/#/
 [link]: https://github.com/Denzel101/uber_clone
 [twitter]: https://twitter.com/DenzelGatugu
 [linkedin]: https://www.linkedin.com/in/denzel-gatugu-1b2897141/
