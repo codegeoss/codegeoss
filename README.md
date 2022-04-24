@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DenzelGatugu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=DenzelGatugu)
 
-## I'm a Brother, Student and Developer!!
+## I'm a Student and Developer!!
 
 - 🔭 I just launched my first open source app: [FLUTTER UBER CLONE][link]!
 - 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
@@ -37,6 +37,8 @@
 
 ---
 
+### My Stats
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -45,6 +47,8 @@
 </details>
 
 <br />
+
+### My Top Languages
 
 <details>
   <summary>:zap: Top Langs</summary>
