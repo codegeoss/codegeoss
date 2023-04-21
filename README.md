@@ -8,7 +8,7 @@
 - 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other teams
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime and play video games
 
 ### Connect with me:
