@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I just launched my first open source app: [FLUTTER UBER CLONE][link]!
+- 🔭 I just wrote my first tech article on medium: [How to Cache API Response and Fetch Data Using Flutter Hive and Bloc][link]!
 - 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other teams
@@ -58,6 +58,6 @@
 </details>
 
 [website]: https://denzel101.github.io/#/
-[link]: https://github.com/Denzel101/uber_clone
+[link]: https://medium.com/@denzelgatugu/how-to-cache-api-response-and-fetch-data-using-flutter-hive-and-bloc-31cf2b02a17c
 [twitter]: https://twitter.com/DenzelGatugu
 [linkedin]: https://www.linkedin.com/in/denzel-gatugu-1b2897141/
