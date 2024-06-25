@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DenzelGatugu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=DenzelGatugu)
 
-## I'm a Student and Developer!!
+## I Love Widgets 💙!
 
 - 🔭 I just wrote my first tech article on medium: [How to Cache API Response and Fetch Data Using Flutter Hive and Bloc][link]!
 - 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other teams
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime and play video games
 
 ### Connect with me:
