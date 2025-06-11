@@ -1,6 +1,5 @@
 ## Hi, I’m Denzel 🚀
 ---
-
 - 🔭 I just wrote my first tech article on medium: [How to Cache API Response and Fetch Data Using Flutter Hive and Bloc][link]!
 - 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
 - 🌱 I’m currently learning everything 🤣
