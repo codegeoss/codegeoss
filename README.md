@@ -19,5 +19,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=codegeoss&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-[website]: https://denzel101.github.io/#/
+[website]: https://codegeoss.github.io/#/
 [link]: https://medium.com/@denzelgatugu/how-to-cache-api-response-and-fetch-data-using-flutter-hive-and-bloc-31cf2b02a17c
