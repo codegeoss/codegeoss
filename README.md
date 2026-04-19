@@ -3,7 +3,7 @@
 - 🌍 If you want to learn a bit more about me, here's my [portfolio][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other teams
-- 🥅 2025 Goals: Do a lot more projects (personal or organization wide)
+- 🥅 2026 Goals: Do a lot more projects (personal or organization wide)
 - ⚡ Fun fact: I love to watch anime and play video games
 
 ## 🌐 Socials:
